@@ -54,4 +54,5 @@ Feel free to explore the project and provide feedback or suggestions!
 
 Replace `[repository-url]` and `[project-directory]` with the actual URL of your GitHub repository and the directory name of your project. This description covers the project’s purpose, features, and technologies, making it clear and informative for anyone who views your repository.
 
-#[Follow on linkedin](https://www.linkedin.com/in/wahidanon/)
+[![LinkedIn](https://img.shields.io/badge/Follow%20Me-LinkedIn-blue)](https://www.linkedin.com/in/wahidanon/)
+
